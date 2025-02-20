@@ -1,4 +1,5 @@
-Emotion Classification Project
+# Emotion Classification Project
+
 Overview
 This project focuses on building a machine learning model to classify emotions from text data. The model achieves an accuracy of 0.87, demonstrating strong performance in emotion prediction tasks. The project is implemented in Python using popular libraries such as TensorFlow, Keras, and Scikit-learn.
 
